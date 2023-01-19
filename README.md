@@ -1,2 +1,0 @@
-# TestRepository
-テスト用
