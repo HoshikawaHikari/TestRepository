@@ -1,9 +1,9 @@
 const cacheName = "T2WEB-Phoenix-1.0";
 const contentToCache = [
     "Build/Bin.loader.js",
-    "Build/Bin.framework.js.gz",
-    "Build/Bin.data.gz",
-    "Build/Bin.wasm.gz",
+    "Build/Bin.framework.js.unityweb",
+    "Build/Bin.data.unityweb",
+    "Build/Bin.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
