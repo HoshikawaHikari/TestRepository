@@ -1,6 +1,6 @@
 {
-    "name": "Phoenix",
-    "short_name": "Phoenix",
+    "name": "WebGLTest",
+    "short_name": "WebGLTest",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",

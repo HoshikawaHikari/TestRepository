@@ -1,4 +1,4 @@
-const cacheName = "T2WEB-Phoenix-1.0";
+const cacheName = "Test-WebGLTest-1.0";
 const contentToCache = [
     "Build/Bin.loader.js",
     "Build/Bin.framework.js.unityweb",
